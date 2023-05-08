@@ -1,7 +1,7 @@
 # CH340K_Driver
 
 ## WINDOWS
-1. Download the Windows CH340 Driver ZIP
+1. Download the CH34x_Install_Windows_v3_4.zip
 2. Unzip the file
 3. Run the installer which you unzipped
 4. In the Arduino IDE when the CH340 is connected you will see a COM Port 
